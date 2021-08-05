@@ -17,5 +17,4 @@ pos_len=len(pos)
 if(pos_len==0):
 	print('Sorry!!!! ',n, ' is not found ')
 else:
-    print('    ''Starting at 0 index ',n,' Is found at position ',index_n) 
-
+    print('    ''Starting at 0 index ',n,' Is found at position ',index_n)
